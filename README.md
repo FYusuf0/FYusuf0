@@ -1,6 +1,15 @@
 ### Hi there 👋
 # My name is Faheem Yusuf
+I am a 2D and 3D artist interested in Video Game Development and programming. 
 
+## My skills
++ 3D Modelling
++ 3D Texturing
++ Traditional Drawing
++ Digital drawing
+
+## I am currently learning
++ Programming in Data Science
 
 <!--
 **FYusuf0/FYusuf0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
